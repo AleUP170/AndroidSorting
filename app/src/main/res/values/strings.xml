@@ -10,4 +10,5 @@
     <string name="numError">Por favor ingresa un número válido</string>
     <string name="sizeError">Por favor ingresa mínimo dos números</string>
     <string name="reset">Borra lista</string>
+    <string name="myName">Alejandro Ugalde Pérez</string>
 </resources>

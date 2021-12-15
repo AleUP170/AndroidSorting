@@ -11,4 +11,5 @@
     <string name="numError">Please input a valid number</string>
     <string name="sizeError">Please input at least two numbers</string>
     <string name="reset">Delete list</string>
+    <string name="myName">Alejandro Ugalde Perez</string>
 </resources>
