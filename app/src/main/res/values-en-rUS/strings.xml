@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sorting</string>
+    <string name="title">Sort!</string>
+    <string name="instruction">Enter numbers of 5 digits or less</string>
+    <string name="ascOrder">Ascending order</string>
+    <string name="desOrder">Descending order</string>
+    <string name="result">Result:</string>
+    <string name="add">Add</string>
+    <string name="list">Your list:</string>
+    <string name="numError">Please input a valid number</string>
+    <string name="sizeError">Please input at least two numbers</string>
+    <string name="reset">Delete list</string>
+</resources>

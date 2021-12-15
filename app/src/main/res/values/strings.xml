@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sorting</string>
+    <string name="title">¡Ordena!</string>
+    <string name="instruction">Ingresa numeros de máximo 5 dígitos</string>
+    <string name="ascOrder">Orden ascendente</string>
+    <string name="desOrder">Orden descendente</string>
+    <string name="result">Resultado:</string>
+    <string name="add">Añadir</string>
+    <string name="list">Tu lista:</string>
+    <string name="numError">Por favor ingresa un número válido</string>
+    <string name="sizeError">Por favor ingresa mínimo dos números</string>
+    <string name="reset">Borra lista</string>
+</resources>
